@@ -2,6 +2,8 @@
 
 ## Citing pandas
 
+TESTING A CHANGE
+
 If you use _pandas_ for a scientific publication, we would appreciate citations to the published software and the
 following paper:
 
